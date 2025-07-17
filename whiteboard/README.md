@@ -1,8 +1,3 @@
-Here is your updated `README.md` with the project renamed to **RubyBoard**:
-
----
-
-
 
 # 🖊️ RubyBoard — Real-Time Collaborative Whiteboard
 
